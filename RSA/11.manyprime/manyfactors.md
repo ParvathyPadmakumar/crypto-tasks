@@ -1,0 +1,2 @@
+- N=product of too many prime factors, then factors are found by ecm(elliptic curve method)
+- sage.ecm
